@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<form method="post">
+
+    <label>Enter Id : </label>
+    <input type="number" name="Id" placeholeder="Engter id" />
+    <input type="submit" name="submit" value="submit" />
+
+
+</form>
+@if(ViewBag.name != null)
+{
+    <h1>@ViewBag.name</h1>
+}
+

@@ -1,0 +1,12 @@
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\ConsoleApplicationL.exe.config
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\ConsoleApplicationL.exe
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\ConsoleApplicationL.pdb
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\BusinessLL.dll
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\DataAcessL.dll
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\BusinessLL.pdb
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\bin\Debug\DataAcessL.pdb
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\obj\Debug\ConsoleApplicationL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\obj\Debug\ConsoleApplicationL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\obj\Debug\ConsoleApplicationL.csproj.CopyComplete
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\obj\Debug\ConsoleApplicationL.exe
+E:\c#\API\Asp.net-practices\ConsoleApplicationL\obj\Debug\ConsoleApplicationL.pdb

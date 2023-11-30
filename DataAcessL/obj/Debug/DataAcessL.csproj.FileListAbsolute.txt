@@ -1,0 +1,6 @@
+E:\c#\API\Asp.net-practices\DataAcessL\bin\Debug\DataAcessL.dll
+E:\c#\API\Asp.net-practices\DataAcessL\bin\Debug\DataAcessL.pdb
+E:\c#\API\Asp.net-practices\DataAcessL\obj\Debug\DataAcessL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\DataAcessL\obj\Debug\DataAcessL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\DataAcessL\obj\Debug\DataAcessL.dll
+E:\c#\API\Asp.net-practices\DataAcessL\obj\Debug\DataAcessL.pdb
