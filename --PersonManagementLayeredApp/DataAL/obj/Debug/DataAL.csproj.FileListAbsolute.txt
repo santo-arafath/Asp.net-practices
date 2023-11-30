@@ -1,0 +1,14 @@
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\DataAL.dll.config
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\DataAL.dll
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\DataAL.pdb
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\EntityFramework.dll
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\EntityFramework.xml
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.csproj.CopyComplete
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.dll
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.pdb
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.Migrations.personTableAdded.resources
+E:\c#\API\Asp.net-practices\--PersonManagementLayeredApp\DataAL\obj\Debug\DataAL.csproj.GenerateResource.cache

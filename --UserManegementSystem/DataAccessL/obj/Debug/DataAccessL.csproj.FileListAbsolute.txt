@@ -1,0 +1,14 @@
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\DataAccessL.dll.config
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\DataAccessL.dll
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\DataAccessL.pdb
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\EntityFramework.dll
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\EntityFramework.SqlServer.dll
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\EntityFramework.xml
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\bin\Debug\EntityFramework.SqlServer.xml
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.csproj.CopyComplete
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.dll
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.pdb
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.Migrations.UserDbAdded.resources
+E:\c#\API\Asp.net-practices\--UserManegementSystem\DataAccessL\obj\Debug\DataAccessL.csproj.GenerateResource.cache
