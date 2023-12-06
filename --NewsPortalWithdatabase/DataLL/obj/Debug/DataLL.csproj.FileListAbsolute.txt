@@ -1,0 +1,6 @@
+E:\c#\API\Asp.net-practices\--NewsPortalWithdatabase\DataLL\bin\Debug\DataLL.dll
+E:\c#\API\Asp.net-practices\--NewsPortalWithdatabase\DataLL\bin\Debug\DataLL.pdb
+E:\c#\API\Asp.net-practices\--NewsPortalWithdatabase\DataLL\obj\Debug\DataLL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\--NewsPortalWithdatabase\DataLL\obj\Debug\DataLL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\--NewsPortalWithdatabase\DataLL\obj\Debug\DataLL.dll
+E:\c#\API\Asp.net-practices\--NewsPortalWithdatabase\DataLL\obj\Debug\DataLL.pdb

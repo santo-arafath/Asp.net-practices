@@ -1,0 +1,14 @@
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\DLL.dll
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\DLL.pdb
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.dll
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.pdb
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\DLL.dll.config
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\EntityFramework.dll
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\EntityFramework.SqlServer.dll
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\EntityFramework.xml
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\bin\Debug\EntityFramework.SqlServer.xml
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.csproj.CopyComplete
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.Migrations.personDatabaseCreated.resources
+E:\c#\API\Asp.net-practices\--PersonMS\DLL\obj\Debug\DLL.csproj.GenerateResource.cache

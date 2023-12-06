@@ -1,0 +1,14 @@
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\BLL.dll
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\BLL.pdb
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\DLL.dll
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\DLL.pdb
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\obj\Debug\BLL.dll
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\obj\Debug\BLL.pdb
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\EntityFramework.dll
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\DLL.dll.config
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\EntityFramework.xml
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\AutoMapper.dll
+E:\c#\API\Asp.net-practices\--PersonMS\BLL\bin\Debug\AutoMapper.xml
