@@ -52,8 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="DataAccessFactory.cs" />
     <Compile Include="EF\Models\Person.cs" />
     <Compile Include="EF\PersonMSContext.cs" />
+    <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202312061522482_personDatabaseCreated.cs" />
     <Compile Include="Migrations\202312061522482_personDatabaseCreated.designer.cs">
       <DependentUpon>202312061522482_personDatabaseCreated.cs</DependentUpon>
@@ -61,6 +63,8 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\PersonRepo.cs" />
+    <Compile Include="Repository\PersonRepoVersion2.cs" />
+    <Compile Include="Repository\Repo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

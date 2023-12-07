@@ -7,33 +7,25 @@ using System.Net;
 using System.Net.Cache;
 using System.Text;
 using System.Threading.Tasks;
+using DLL.Repository;
+using DLL.Interfaces;
 
 namespace DLL.Repository
 {
-    public class PersonRepo
+    internal class PersonRepo : Repo, IRepo<Person, string>
     {
-
-        public static List<Person> GetAll()
+        public string Create(Person obj)
         {
-
-            var db = new PersonMSContext();
-                var data = db.Persons.ToList();
-                return data;
-                    
-            
-        }
-
-        public static String Create(Person Data)
-        {
-
-            var db = new PersonMSContext();
-
-            var data = db.Persons.Add(Data);
-
+            db.Persons.Add(obj);
             db.SaveChanges();
             return "Created";
+        }
 
-
+        public List<Person> Get()
+        {
+            var data = db.Persons.ToList();
+            return data;
         }
     }
 }
+
